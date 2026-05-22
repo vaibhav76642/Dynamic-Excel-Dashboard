@@ -1,10 +1,12 @@
 
-# 📊 Dynamic Excel Dashboard with VBA Automation
+# 📊 Dynamic Sales Performance Dashboard
 
 ## 📌 Project Overview
-This project demonstrates the creation of an interactive Excel dashboard using Pivot Tables, Pivot Charts, Slicers, and VBA Macros. The dashboard analyzes sales executive performance and automates slicer connections dynamically using VBA.
 
-The project focuses on improving dashboard interactivity and reducing manual effort by automating slicer linking and unlinking across multiple pivot tables.
+Built an interactive Excel Sales Performance Dashboard using Pivot Tables, Pivot Charts, Slicers, and VBA Macros to analyze and monitor sales executive performance efficiently.
+The dashboard provides detailed insights into Top 5 and Bottom 5 Sales Executives, target achievement percentages, and region-wise sales performance through dynamic visualizations and filtering. Multiple charts such as Pivot Charts, Pie Charts, and Line Charts were created to present business insights in a clear and visually appealing way.
+
+A major feature of the project is the automation of slicer connections using VBA Macros and checkboxes. Instead of manually linking and unlinking slicers through Report Connections, VBA automation was implemented to dynamically control which Pivot Tables respond to the slicer selection. This improved dashboard flexibility, usability, and user interaction
 
 ---
 
